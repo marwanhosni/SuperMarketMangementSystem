@@ -1,0 +1,113 @@
+﻿@model SuperMarketMangementSystem.Models.Entities.Discount
+@{
+    ViewData["Title"] = "Edit Discount";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h1>Edit Discount</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SaveEditDiscount" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Discount Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DiscountPercentage" class="control-label">Discount Percentage (%)</label>
+                <input asp-for="DiscountPercentage" class="form-control" type="number" step="0.01" />
+                <span asp-validation-for="DiscountPercentage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartDate" class="control-label">Start Date</label>
+                <input asp-for="StartDate" class="form-control" type="date" />
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" class="control-label">End Date</label>
+                <input asp-for="EndDate" class="form-control" type="date" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label">Category (Optional)</label>
+                <select asp-for="CategoryId" class="form-control" id="categorySelect">
+                    <option value="">-- Select Category --</option>
+                    @foreach (var category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id" selected="@(category.Id == Model.CategoryId ? "selected" : null)">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductId" class="control-label">Product (Optional)</label>
+                <select asp-for="ProductId" class="form-control" id="productSelect">
+                    <option value="">-- Select Product --</option>
+                    @foreach (var product in ViewBag.Products)
+                    {
+                        <option value="@product.Id" selected="@(product.Id == Model.ProductId ? "selected" : null)">@product.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-outline mt-2">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="AllDiscounts" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            // Load products for the initially selected category (if any)
+            var initialCategoryId = $("#categorySelect").val();
+            if (initialCategoryId) {
+                loadProducts(initialCategoryId, @Model.ProductId);
+            }
+
+            $("#categorySelect").change(function () {
+                var categoryId = $(this).val();
+                loadProducts(categoryId);
+            });
+
+            function loadProducts(categoryId, selectedProductId = null) {
+                var productSelect = $("#productSelect");
+
+                // Clear the current options in the product dropdown
+                productSelect.empty();
+                productSelect.append('<option value="">-- Select Product --</option>');
+
+                if (categoryId) {
+                    // Fetch products for the selected category
+                    $.ajax({
+                        url: '/Discount/GetProductsByCategory',
+                        type: 'GET',
+                        data: { categoryId: categoryId },
+                        success: function (data) {
+                            if (data && data.length > 0) {
+                                // Add new options based on the response
+                                $.each(data, function (index, product) {
+                                    var isSelected = selectedProductId && product.id == selectedProductId ? "selected" : "";
+                                    productSelect.append('<option value="' + product.id + '" ' + isSelected + '>' + product.name + '</option>');
+                                });
+                            } else {
+                                alert("No products available for this category.");
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            alert("Error loading products: " + (xhr.responseText || "Unknown error"));
+                        }
+                    });
+                }
+            }
+        });
+    </script>
+}

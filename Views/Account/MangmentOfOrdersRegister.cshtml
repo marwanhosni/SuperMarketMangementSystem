@@ -1,0 +1,74 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "RoleRegister";
+    Layout = "~/Views/Shared/_RegisterLayout.cshtml";
+}
+
+<div style="text-align: center;">
+    <h1>MangmentOfOrdersRegister</h1>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-20">
+        <form asp-action="SaveMangmentOfOrdersRegister">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="Address"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="PhoneNumber"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="AnotherPhoneNumber">
+                    Another Phone Number
+                    <i class="fas fa-info-circle ms-1" title="Try To Enter A Different Phone Number"></i>
+                </label>
+                <input asp-for="AnotherPhoneNumber" class="form-control" />
+                <span asp-validation-for="AnotherPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="password" class="control-label"></label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" style="margin-top: 5px;" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div data-mdb-input-init class="form-outline mb-10 ">
+    <button type="button" class="btn btn-primary" onclick="window.location.href='@Url.Action("Login", "account")'">Back To Login View</button>
+</div>
+

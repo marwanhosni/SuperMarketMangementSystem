@@ -1,0 +1,134 @@
+﻿@model List<CartItem>
+
+@{
+    ViewData["Title"] = "View Cart";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>View Cart</title>
+</head>
+<body>
+    <h1>Your Cart</h1>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (Model == null || !Model.Any())
+    {
+        <p>Your cart is empty.</p>
+    }
+    else
+    {
+        <table class="table table-striped w-100">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Original Price</th>
+                    <th>Price After Discount</th>
+                    <th>Discount Percentage</th>
+                    <th>Total</th>
+                    <th>Actions</th>
+                    <th>About Product</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    var product = await ViewBag.ProductRepo?.GetProductByIdAsync(item.ProductId);
+                    if (product == null)
+                    {
+                        <tr>
+                            <td>@item.ProductName</td>
+                            <td>@item.Quantity</td>
+                            <td colspan="4" class="text-danger">Error: Product not found.</td>
+                            <td>
+                                <form asp-action="UpdateQuantity" asp-controller="Cart" method="post">
+                                    <input type="number" name="newQuantity" min="0" max="@item.Quantity" value="@item.Quantity" />
+                                    <input type="hidden" name="productId" value="@item.ProductId" />
+                                    <button type="submit" class="btn btn-primary">Update Quantity</button>
+                                </form>
+                                <a asp-action="RemoveFromCart" asp-controller="Cart" asp-route-productId="@item.ProductId" class="btn btn-danger">Remove</a>
+                            </td>
+                            <td style="vertical-align: middle;">
+                                <a asp-action="Details" asp-controller="Product" asp-route-id="@item.ProductId" style="text-decoration: none;">Return To Details</a>
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        var discountPercentage = await ViewBag.DiscountServices?.GetApplicableDiscountAsync(item.ProductId, product.CategoryId) ?? 0m;
+                        var discountedPrice = item.OriginalPrice * (1m - (discountPercentage / 100m));
+                        var totall = discountedPrice * (decimal)item.Quantity;
+                        <tr>
+                            <td>@item.ProductName</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.OriginalPrice.ToString("F2") EGP</td>
+                            <td>@discountedPrice.ToString("F2") EGP</td>
+                            <td>@discountPercentage.ToString("F2")%</td>
+                            <td>@totall.ToString("F2") EGP</td>
+                            <td>
+                                <form asp-action="UpdateQuantity" asp-controller="Cart" method="post">
+                                    <input type="number" name="newQuantity" min="1" value="@item.Quantity" class="quantity-input" />
+
+                                    <input type="hidden" name="productId" value="@item.ProductId" />
+                                    <button type="submit" class="btn btn-primary">Update Quantity</button>
+                                </form>
+                                <a asp-action="RemoveFromCart" asp-controller="Cart" asp-route-productId="@item.ProductId" class="btn btn-danger">Remove</a>
+                            </td>
+                            <td style="vertical-align: middle;">
+                                <a asp-action="Details" asp-controller="Product" asp-route-id="@item.ProductId" style="text-decoration: none;">Return To Details</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        <p>
+            @{
+                var totalPriceTask = Task.WhenAll(Model.Select(async item =>
+                {
+                    var product = await ViewBag.ProductRepo.GetProductByIdAsync(item.ProductId);
+
+                    var discountPercentage = await ViewBag.DiscountServices?.GetApplicableDiscountAsync(item.ProductId, product.CategoryId) ?? 0m;
+
+                    var discountedPrice = item.OriginalPrice * (1 - (discountPercentage / 100));
+
+                    var itemTotal = (decimal)discountedPrice * item.Quantity;
+
+                    return itemTotal;
+                }));
+
+                var total = totalPriceTask.Result.Sum();
+            }
+            Total: @total EGP
+        </p>
+
+
+        <form asp-action="ConfirmPurchase" asp-controller="Cart" method="post">
+            <button type="submit" class="btn btn-success btn-lg">Confirm Purchase</button>
+        </form>
+
+        <div class="form-outline mt-2">
+            <button type="button" class="btn btn-lg btn-primary" onclick="window.location.href='@Url.Action("GetAllProduct", "Product")'">
+                Back To All Product
+            </button>
+        </div>
+    }
+</body>
+<style>
+    .quantity-input {
+        width: 80px;
+        font-size: 16px;
+        padding: 2px;
+    }
+</style>
+</html>

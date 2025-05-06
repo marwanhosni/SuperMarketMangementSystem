@@ -1,0 +1,66 @@
+﻿@model SuperMarketMangementSystem.ModelView.ProductDetailsViewModel
+
+@{
+    ViewData["Title"] = Model.Name;
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<div class="d-flex justify-content-center">
+    <div style="max-width: 600px; width: 100%;">
+        <h1 class="text-center mb-4">Details About @Model.Name</h1>
+
+        <dl class="row">
+            <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Name)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+            <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Price)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Price)</dd>
+
+            <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Quantity)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Quantity)</dd>
+
+            <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Description)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+
+            <dt class="col-sm-3 fw-bold">@Html.DisplayNameFor(model => model.Image)</dt>
+            <dd class="col-sm-9">
+                @if (!string.IsNullOrEmpty(Model.Image))
+                {
+                    <a href="@Url.Action("ViewImage", "Product", new { imageName = Model.Image })" target="_blank">
+                        <img src="/images/@Model.Image" alt="@Model.Name" class="img-fluid" style="max-height: 200px;" title="Click to view the image in full resolution in a new window." />
+                    </a>
+                }
+                else
+                {
+                    <span>No Image</span>
+                }
+            </dd>      
+        </dl>
+
+        @if (!User.IsInRole("admin"))
+        {
+            <h5 class="mt-4">Select Quantity:</h5>
+            <form asp-action="AddToCart" asp-controller="Cart" asp-route-id="@Model.Id" method="post" class="d-flex align-items-center gap-2 mb-4">
+                <input type="hidden" name="productId" value="@Model.Id" />
+                <select name="quantity" id="quantity" required class="form-select w-auto">
+                    @for (int i = 1; i <= Model.Quantity; i++)
+                    {
+                        <option value="@i">@i</option>
+                    }
+                </select>
+                <button type="submit" class="btn btn-primary">Add to Cart</button>
+            </form>
+        }
+
+        <div class="d-flex gap-2">
+            <form asp-action="GetAllProduct" asp-controller="Product" method="get">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger">Back To All Product</button>
+            </form>
+            @if(User.IsInRole("User"))
+            {
+            <a asp-action="ViewCart" asp-controller="Cart" class="btn btn-secondary">View Cart</a>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\SuperMarketMangementSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Cart\\ViewCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Cart\\ViewCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CartServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CartServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\AllDiscounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Discount\\AllDiscounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_CategoryLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Shared\\_CategoryLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250426182421_AddOriginalPrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250426182421_AddOriginalPrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICartServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICartServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\DiscountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\DiscountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\AddDiscount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Discount\\AddDiscount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Cart\\PurchaseConfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Cart\\PurchaseConfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\DiscountedProducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Discount\\DiscountedProducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\Discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\VerifyEmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\VerifyEmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ShowToken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\ShowToken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\RoleAdminRegister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\RoleAdminRegister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ResetPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\ResetPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_RegisterLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Shared\\_RegisterLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\MangmentOfOrdersRegister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\MangmentOfOrdersRegister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Guest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\Guest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\EmailSent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\EmailSent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ChangePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Account\\ChangePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\AuthServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Implementation\\AuthServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IAuthServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IAuthServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ResetPasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\ResetPasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\VerifyEmailViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\VerifyEmailViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\JwtProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Contracts\\Authentications\\JwtProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_LoginLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Shared\\_LoginLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\AuthResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Contracts\\AuthResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Home\\UserProfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Home\\UserProfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\RoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\RoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\IJwtProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Contracts\\Authentications\\IJwtProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\GetAllProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Product\\GetAllProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_MangmentOrderLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Shared\\_MangmentOrderLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\RoleViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\RoleViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SessionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\SessionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Category\\AllCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Category\\AllCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Orders\\AllOrders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Orders\\AllOrders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Orders\\MyOrders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Orders\\MyOrders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\DiscountServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Implementation\\DiscountServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\ProductRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Implementation\\ProductRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250426182732_AddCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250426182732_AddCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Product\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IDiscountServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IDiscountServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\EditDiscount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Discount\\EditDiscount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\ViewImage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Product\\ViewImage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Product\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\ConfirmDelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Discount\\ConfirmDelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424163201_AddDiscountToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250424163201_AddDiscountToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424135256_AddDiscountEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250424135256_AddDiscountEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\AddNewProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Product\\AddNewProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Category\\EditCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\Category\\EditCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ProductDetailsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\ProductDetailsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ProductCategoryViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\ProductCategoryViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ChangePasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\ModelView\\ChangePasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CustomEmailSender .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CustomEmailSender .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CategoryRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CategoryRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Entities\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424125033_AddOrderOrderItemEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250424125033_AddOrderOrderItemEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424002757_UpdateImageToNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250424002757_UpdateImageToNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\JwtOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Contracts\\Authentications\\JwtOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICustomEmailSender .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICustomEmailSender .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250422163933_AddImageToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Migrations\\20250422163933_AddImageToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\UserError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\UserError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\ResultExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Models\\Repo\\ResultExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperMarketMangementSystem\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\CartController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:27:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Cart\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Cart\\ViewCart.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T10:55:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:31:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllDiscounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\AllDiscounts.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Discount\\AllDiscounts.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\AllDiscounts.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Discount\\AllDiscounts.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:29:17.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartServices.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CartServices.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CartServices.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CartServices.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CartServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:16:53.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:49:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Program.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:44:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_CategoryLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_CategoryLayout.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Shared\\_CategoryLayout.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_CategoryLayout.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Shared\\_CategoryLayout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T22:45:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperMarketMangementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem.csproj",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\SuperMarketMangementSystem.csproj",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem.csproj",
+              "RelativeToolTip": "SuperMarketMangementSystem\\SuperMarketMangementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T21:20:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartServices.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICartServices.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICartServices.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICartServices.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICartServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:16:54.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\DiscountController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:19:54.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:36:03.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddDiscount.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\AddDiscount.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Discount\\AddDiscount.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\AddDiscount.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Discount\\AddDiscount.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwFEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:26:45.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Cart\\PurchaseConfirmation.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Cart\\PurchaseConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Cart\\PurchaseConfirmation.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Cart\\PurchaseConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T00:46:27.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiscountedProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\DiscountedProducts.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Discount\\DiscountedProducts.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\DiscountedProducts.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Discount\\DiscountedProducts.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vz4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T16:34:26.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\Discount.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Discount.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\Discount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:49:53.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:53:07.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShowToken.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ShowToken.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\ShowToken.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ShowToken.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\ShowToken.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T22:13:59.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:57:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleAdminRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\RoleAdminRegister.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\RoleAdminRegister.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\RoleAdminRegister.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\RoleAdminRegister.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:38:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T21:12:35.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T15:49:05.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_RegisterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_RegisterLayout.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Shared\\_RegisterLayout.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_RegisterLayout.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Shared\\_RegisterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T15:36:07.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MangmentOfOrdersRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\MangmentOfOrdersRegister.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\MangmentOfOrdersRegister.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\MangmentOfOrdersRegister.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\MangmentOfOrdersRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T14:56:57.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Guest.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Guest.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\Guest.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\Guest.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\Guest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:04:17.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailSent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\EmailSent.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\EmailSent.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\EmailSent.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\EmailSent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T21:14:20.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T16:15:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\AuthServices.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\AuthServices.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\AuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:21:55.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Global.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Global.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Global.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:52:11.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IAuthServices.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IAuthServices.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:21:56.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:11:44.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\appsettings.json",
+              "RelativeToolTip": "SuperMarketMangementSystem\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T20:18:37.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:53:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Contracts\\Authentications\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\JwtProvider.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Contracts\\Authentications\\JwtProvider.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:32:32.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\LoginViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:13:25.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T16:08:01.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\RegisterViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:48:26.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Contracts\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\AuthResponse.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Contracts\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:36:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Home\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Home\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Home\\UserProfile.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Home\\UserProfile.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vy4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T15:57:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:28:14.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Contracts\\Authentications\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\IJwtProvider.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Contracts\\Authentications\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:31:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T16:18:29.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Product\\GetAllProduct.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Product\\GetAllProduct.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:07:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:55:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:30:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAKIAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T20:22:10.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_MangmentOrderLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_MangmentOrderLayout.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Shared\\_MangmentOrderLayout.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Shared\\_MangmentOrderLayout.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Shared\\_MangmentOrderLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T15:44:15.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T20:02:08.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\RoleViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:43.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SessionExtensions.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\SessionExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:43:59.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AllCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Category\\AllCategory.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Category\\AllCategory.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Category\\AllCategory.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T17:30:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:48:05.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AllOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Orders\\AllOrders.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Orders\\AllOrders.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Orders\\AllOrders.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Orders\\AllOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T17:33:11.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:43:22.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Orders\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Orders\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Orders\\MyOrders.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Orders\\MyOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T17:31:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\Products.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Products.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\Products.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:08:47.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DiscountServices.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\DiscountServices.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\DiscountServices.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\DiscountServices.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\DiscountServices.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:15:56.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\ProductRepo.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\ProductRepo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:28:01.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:41:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250426182732_AddCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250426182732_AddCartItem.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250426182732_AddCartItem.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250426182732_AddCartItem.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250426182732_AddCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:27:33.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250426182421_AddOriginalPrice.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250426182421_AddOriginalPrice.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250426182421_AddOriginalPrice.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250426182421_AddOriginalPrice.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250426182421_AddOriginalPrice.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:24:21.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T10:17:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IDiscountServices.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IDiscountServices.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IDiscountServices.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IDiscountServices.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\IDiscountServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:15:44.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EditDiscount.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\EditDiscount.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Discount\\EditDiscount.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\EditDiscount.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Discount\\EditDiscount.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswFgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:28:33.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ViewImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\ViewImage.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Product\\ViewImage.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\ViewImage.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Product\\ViewImage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T17:12:26.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T00:04:46.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:47:36.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ConfirmDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\ConfirmDelete.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Discount\\ConfirmDelete.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Discount\\ConfirmDelete.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Discount\\ConfirmDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:31:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250424163201_AddDiscountToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424163201_AddDiscountToProduct.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250424163201_AddDiscountToProduct.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424163201_AddDiscountToProduct.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250424163201_AddDiscountToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:32:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250424135256_AddDiscountEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424135256_AddDiscountEntity.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250424135256_AddDiscountEntity.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424135256_AddDiscountEntity.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250424135256_AddDiscountEntity.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:52:57.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AddNewProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\AddNewProduct.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Product\\AddNewProduct.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Product\\AddNewProduct.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Product\\AddNewProduct.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T18:06:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T02:03:32.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ProductDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\ProductDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ProductDetailsViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\ProductDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:11:04.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ProductCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\ProductCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ProductCategoryViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\ProductCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:35:09.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\ModelView\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\ModelView\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\ModelView\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:54:42.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CustomEmailSender .cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CustomEmailSender .cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CustomEmailSender .cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CustomEmailSender .cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CustomEmailSender .cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:13:49.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Implementation\\CategoryRepo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:22:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:55:45.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:05:46.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250424125033_AddOrderOrderItemEntities.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424125033_AddOrderOrderItemEntities.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250424125033_AddOrderOrderItemEntities.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424125033_AddOrderOrderItemEntities.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250424125033_AddOrderOrderItemEntities.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:50:33.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250424002757_UpdateImageToNullable.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424002757_UpdateImageToNullable.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250424002757_UpdateImageToNullable.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250424002757_UpdateImageToNullable.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250424002757_UpdateImageToNullable.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:27:57.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Contracts\\Authentications\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Contracts\\Authentications\\JwtOptions.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Contracts\\Authentications\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:32:24.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ICustomEmailSender .cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICustomEmailSender .cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICustomEmailSender .cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICustomEmailSender .cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Abstract\\ICustomEmailSender .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:13:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T20:18:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20250422163933_AddImageToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250422163933_AddImageToProduct.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Migrations\\20250422163933_AddImageToProduct.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Migrations\\20250422163933_AddImageToProduct.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Migrations\\20250422163933_AddImageToProduct.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:39:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UserError.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\UserError.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\UserError.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\UserError.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\UserError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:19:05.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Result.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Result.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Result.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Result.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:04:32.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Error.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\Error.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\Error.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:05:09.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Models\\Repo\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Models\\Repo\\ResultExtensions.cs",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Models\\Repo\\ResultExtensions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:05:14.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketMangementSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ELATTAL\\source\\repos\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\SuperMarketMangementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SuperMarketMangementSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T20:18:35.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

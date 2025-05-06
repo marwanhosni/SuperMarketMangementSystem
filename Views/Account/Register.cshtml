@@ -1,0 +1,73 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_RegisterLayout.cshtml";
+   
+}
+
+<div style="text-align: center;">
+    <h1>Register</h1>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="row-cols-md-1">
+        <form asp-action="SaveRegister" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+        
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="Name" ></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="Address"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="PhoneNumber"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="AnotherPhoneNumber">
+                    Another Phone Number
+                    <i class="fas fa-info-circle ms-1" title="Try To Enter A Different Phone Number"></i>
+                </label>
+                <input asp-for="AnotherPhoneNumber" class="form-control" />
+                <span asp-validation-for="AnotherPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="password"></label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+
+            <div data-mdb-input-init class="form-outline mb-2">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <button type="submit" value="Create" class="btn btn-primary" >Register</button>
+        </form>
+    </div>
+</div>
+
+@* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+@* <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script> *@
+@* <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script> *@
+

@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ELATTAL\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuperMarketMangementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SuperMarketMangementSystem.kprbr3n1me.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg",
+      "PackagePath": "staticwebassets\\images\\0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_11_02_28_IMG_4629.JPG",
+      "PackagePath": "staticwebassets\\images\\2025_04_11_02_28_IMG_4629.JPG"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_22_20_19_46_2025_04_11_03_34_IMG_4641.JPG",
+      "PackagePath": "staticwebassets\\images\\2025_04_22_20_19_46_2025_04_11_03_34_IMG_4641.JPG"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_22_20_23_45_2025_04_11_02_28_IMG_4629.JPG.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_22_20_23_45_2025_04_11_02_28_IMG_4629.JPG.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_22_20_58_12_2025_04_09_23_46_IMG_4561.jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_22_20_58_12_2025_04_09_23_46_IMG_4561.jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_01_49_34_istockphoto-1359180038-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_01_49_34_istockphoto-1359180038-612x612.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_03_download.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_03_download.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_11_download (1).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_11_download (1).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_26_download (2).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_26_download (2).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_32_download (3).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_32_download (3).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_39_download (4).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_39_download (4).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_46_download (5).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_46_download (5).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_29_54_download (6).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_29_54_download (6).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_30_03_download (7).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_30_03_download (7).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_02_30_34_تصميم بدون عنوان (3).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_02_30_34_تصميم بدون عنوان (3).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_03_26_49_تصميم بدون عنوان.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_03_26_49_تصميم بدون عنوان.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_15_40_15_download (6).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_15_40_15_download (6).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_24_15_40_38_download (7).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_24_15_40_38_download (7).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_12_25_images.jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_12_25_images.jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_12_44_images (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_12_44_images (1).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_12_57_download.jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_12_57_download.jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_13_07_download (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_13_07_download (1).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_13_15_download (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_13_15_download (2).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_13_23_download (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_13_23_download (3).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_13_32_download (4).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_13_32_download (4).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_13_39_download (5).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_13_39_download (5).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_13_48_download (6).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_13_48_download (6).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_28_01_14_01_81Ks1unc9GL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_28_01_14_01_81Ks1unc9GL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_29_00_11_16_تصميم بدون عنوان (12).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_04_29_00_11_16_تصميم بدون عنوان (12).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_04_29_02_23_17_images.jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_04_29_02_23_17_images.jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_01_15_27_19_download (7).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_05_01_15_27_19_download (7).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_01_15_29_06_download (8).jpeg",
+      "PackagePath": "staticwebassets\\images\\2025_05_01_15_29_06_download (8).jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_02_03_33_38_0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_05_02_03_33_38_0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_02_03_36_09_still-life-books-versus-technology.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_05_02_03_36_09_still-life-books-versus-technology.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_02_03_37_08_40.png",
+      "PackagePath": "staticwebassets\\images\\2025_05_02_03_37_08_40.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_03_04_16_16_0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg",
+      "PackagePath": "staticwebassets\\images\\2025_05_03_04_16_16_0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\2025_05_06_17_17_50_2025_04_24_02_29_46_download (5).jpg",
+      "PackagePath": "staticwebassets\\images\\2025_05_06_17_17_50_2025_04_24_02_29_46_download (5).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\40.png",
+      "PackagePath": "staticwebassets\\images\\40.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\Marwan.png",
+      "PackagePath": "staticwebassets\\images\\Marwan.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\SuperMarket.png",
+      "PackagePath": "staticwebassets\\images\\SuperMarket.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\images\\download.jpeg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\franki-chamaki-ivfp_yxZuYQ-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\franki-chamaki-ivfp_yxZuYQ-unsplash.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\franki-chamaki-ivfp_yxZuYQ-unsplash.png",
+      "PackagePath": "staticwebassets\\images\\franki-chamaki-ivfp_yxZuYQ-unsplash.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\still-life-books-versus-technology.jpg",
+      "PackagePath": "staticwebassets\\images\\still-life-books-versus-technology.jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\tablet.png",
+      "PackagePath": "staticwebassets\\images\\tablet.png"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\images\\تصميم بدون عنوان (7).jpg",
+      "PackagePath": "staticwebassets\\images\\تصميم بدون عنوان (7).jpg"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\SuperMarketMangementSystem6\\SuperMarketMangementSystem6\\SuperMarketMangementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SuperMarketMangementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SuperMarketMangementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SuperMarketMangementSystem.props",
+      "PackagePath": "build\\SuperMarketMangementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SuperMarketMangementSystem.props",
+      "PackagePath": "buildMultiTargeting\\SuperMarketMangementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SuperMarketMangementSystem.props",
+      "PackagePath": "buildTransitive\\SuperMarketMangementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

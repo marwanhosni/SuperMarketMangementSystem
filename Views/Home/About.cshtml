@@ -1,0 +1,97 @@
+﻿@{
+    ViewData["Title"] = "About Us";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container my-5">
+    <div class="row align-items-center">
+        <!-- Image -->
+        <div class="col-md-6 mb-4">
+            @* <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" class="img-fluid rounded shadow" alt="SuperMarket"> *@
+            <img src="~/images/franki-chamaki-ivfp_yxZuYQ-unsplash.png" class="img-fluid rounded shadow" alt="SuperMarket">
+
+        </div>
+        <!-- Text -->
+        <div class="col-md-6">
+            <h1 class="font-weight-bold text-primary mb-3">About SuperMarket Management System</h1>
+            <p class="lead text-muted">
+                Welcome to SuperMarket Management System, your trusted online shopping platform! We are dedicated to providing a seamless and enjoyable shopping experience for all your needs.
+            </p>
+            <p class="text-muted">
+                Our platform is built with the latest technologies like <strong>ASP.NET Core MVC</strong>, <strong>Blazor</strong>, and <strong>Entity Framework Core</strong>, ensuring a secure and efficient shopping environment. Whether you're looking for groceries, books, or more, we've got you covered with the best prices and exclusive discounts.
+            </p>
+            <p class="text-muted">
+                The system was carefully developed following best software engineering practices. We used <strong>Microsoft Identity</strong> for secure user authentication, and integrated advanced features like product categorization, dynamic discounts, and real-time stock management.
+            </p>
+            <p class="text-muted">
+                The project also includes an admin dashboard for managing products, categories, and users, making it a complete solution for supermarket businesses. All data is stored securely using <strong>SQL Server</strong>, and images are managed efficiently for optimal performance.
+            </p>
+            <p class="text-muted">
+                Our mission is to make shopping smarter, easier, and more affordable. Join us today and explore a world of convenience!
+            </p>
+            <a asp-controller="Product" asp-action="GetAllProduct" class="btn btn-primary btn-lg mt-3">Shop Now</a>
+        </div>
+
+    </div>
+
+    
+    <div class="mt-5 text-center content-section">
+        <h2 class="font-weight-bold text-primary mb-4">Meet Our Team</h2>
+
+        <!-- Team Leader (Marwan) -->
+        <div class="mb-5">
+            <div class="card shadow-sm border-0 mx-auto" style="max-width: 300px;">
+                <img src="~/images/Marwan.png" class="card-img-top rounded-circle mx-auto mt-3" alt="Team Leader" style="width: 150px; height: 150px;" title="Right-click and select 'Open image in new tab' to view in full resolution.">
+
+                <div class="card-body">
+                    <h5 class="card-title" style="color:red">Marwan Hosni</h5>
+                    <p class="card-text text-muted">Team Leader & .NET Developer</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Team Members -->
+        @*
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <div class="card shadow-sm border-0">
+                    <img src="https://via.placeholder.com/150" class="card-img-top rounded-circle mx-auto mt-3" alt="Team Member" style="width: 150px; height: 150px;">
+                    <div class="card-body">
+                        <h5 class="card-title">Sara Mohamed</h5>
+                        <p class="card-text text-muted">Marketing Manager</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 mb-4">
+                <div class="card shadow-sm border-0">
+                    <img src="https://via.placeholder.com/150" class="card-img-top rounded-circle mx-auto mt-3" alt="Team Member" style="width: 150px; height: 150px;">
+                    <div class="card-body">
+                        <h5 class="card-title">Omar Khaled</h5>
+                        <p class="card-text text-muted">Lead Developer</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        *@
+    </div>
+
+
+</div>
+
+<style>
+    .img-fluid {
+        transition: transform 0.3s ease;
+    }
+
+        .img-fluid:hover {
+            transform: scale(1.05);
+        }
+
+    .card {
+        transition: transform 0.3s ease;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+</style>

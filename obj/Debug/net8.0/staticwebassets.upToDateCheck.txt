@@ -1,0 +1,152 @@
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.min.css
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.bundle.js
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.bundle.js.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.bundle.min.js
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.bundle.min.js.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.esm.js
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.esm.js.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.esm.min.js
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.esm.min.js.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.js
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.js.map
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.min.js
+C:\Users\ELATTAL\.nuget\packages\bootstrap\5.3.5\contentFiles\any\any\wwwroot\js\bootstrap.min.js.map
+wwwroot\css\product.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg
+wwwroot\images\2025_04_11_02_28_IMG_4629.JPG
+wwwroot\images\2025_04_22_20_19_46_2025_04_11_03_34_IMG_4641.JPG
+wwwroot\images\2025_04_22_20_23_45_2025_04_11_02_28_IMG_4629.JPG.jpg
+wwwroot\images\2025_04_22_20_58_12_2025_04_09_23_46_IMG_4561.jpeg
+wwwroot\images\2025_04_24_01_49_34_istockphoto-1359180038-612x612.jpg
+wwwroot\images\2025_04_24_02_29_03_download.jpg
+wwwroot\images\2025_04_24_02_29_11_download (1).jpg
+wwwroot\images\2025_04_24_02_29_26_download (2).jpg
+wwwroot\images\2025_04_24_02_29_32_download (3).jpg
+wwwroot\images\2025_04_24_02_29_39_download (4).jpg
+wwwroot\images\2025_04_24_02_29_46_download (5).jpg
+wwwroot\images\2025_04_24_02_29_54_download (6).jpg
+wwwroot\images\2025_04_24_02_30_03_download (7).jpg
+wwwroot\images\2025_04_24_02_30_34_تصميم بدون عنوان (3).jpg
+wwwroot\images\2025_04_24_03_26_49_تصميم بدون عنوان.jpg
+wwwroot\images\2025_04_24_15_40_15_download (6).jpg
+wwwroot\images\2025_04_24_15_40_38_download (7).jpg
+wwwroot\images\2025_04_28_01_12_25_images.jpeg
+wwwroot\images\2025_04_28_01_12_44_images (1).jpeg
+wwwroot\images\2025_04_28_01_12_57_download.jpeg
+wwwroot\images\2025_04_28_01_13_07_download (1).jpeg
+wwwroot\images\2025_04_28_01_13_15_download (2).jpeg
+wwwroot\images\2025_04_28_01_13_23_download (3).jpeg
+wwwroot\images\2025_04_28_01_13_32_download (4).jpeg
+wwwroot\images\2025_04_28_01_13_39_download (5).jpeg
+wwwroot\images\2025_04_28_01_13_48_download (6).jpeg
+wwwroot\images\2025_04_28_01_14_01_81Ks1unc9GL._AC_SL1500_.jpg
+wwwroot\images\2025_04_29_00_11_16_تصميم بدون عنوان (12).jpg
+wwwroot\images\2025_04_29_02_23_17_images.jpeg
+wwwroot\images\2025_05_01_15_27_19_download (7).jpeg
+wwwroot\images\2025_05_01_15_29_06_download (8).jpeg
+wwwroot\images\2025_05_02_03_33_38_0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg
+wwwroot\images\2025_05_02_03_36_09_still-life-books-versus-technology.jpg
+wwwroot\images\2025_05_02_03_37_08_40.png
+wwwroot\images\2025_05_03_04_16_16_0-oraimo-smart-watch-osw-30-black-img-1697463378.jpg
+wwwroot\images\2025_05_06_17_17_50_2025_04_24_02_29_46_download (5).jpg
+wwwroot\images\40.png
+wwwroot\images\download.jpeg
+wwwroot\images\franki-chamaki-ivfp_yxZuYQ-unsplash.jpg
+wwwroot\images\franki-chamaki-ivfp_yxZuYQ-unsplash.png
+wwwroot\images\Marwan.png
+wwwroot\images\phone.png
+wwwroot\images\still-life-books-versus-technology.jpg
+wwwroot\images\SuperMarket.png
+wwwroot\images\tablet.png
+wwwroot\images\تصميم بدون عنوان (7).jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

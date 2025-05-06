@@ -1,0 +1,80 @@
+﻿@model List<CartItem>
+
+@{
+    ViewData["Title"] = "Purchase Confirmation";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Purchase Confirmation</title>
+    <style>
+        @@media print {
+            .btn, .mt-3 {
+                display: none; 
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+
+            th, td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+
+            h3 {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Purchase Confirmation</h1>
+
+    <hr />
+
+    @if (Model == null || !Model.Any())
+    {
+        <p>No items to display.</p>
+    }
+    else
+    {
+        <h3>Thank you for your purchase!</h3>
+        <p>Date: @DateTime.Now.ToString("dd/MM/yyyy HH:mm")</p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ProductName</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price</td>
+                        <td>@(item.Quantity * item.Price)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h3>Total: @Model.Sum(item => item.Price * item.Quantity)</h3>
+
+        <button onclick="window.print()" class="btn btn-secondary btn-lg">Print Receipt</button>
+
+        <div>
+            <a asp-controller="Product" asp-action="GetAllProduct" class="btn btn-primary mt-3">Back To All Products</a>
+        </div>
+    }
+</body>
+</html>

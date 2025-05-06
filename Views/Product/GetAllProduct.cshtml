@@ -1,0 +1,127 @@
+﻿@model List<Products>
+@{
+    ViewData["Title"] = "Get All Products";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h1 class="text-center my-4 py-3 px-4 bg-light border rounded shadow-sm" style="font-weight: bold; color: #2c3e50;">
+    All Products 🧺
+</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@foreach (var categoryGroup in Model.GroupBy(p => p.category.Name))
+{
+    <h2 style="margin-top: 30px; font-weight: bold; color: #2c3e50;">
+        @categoryGroup.Key
+    </h2>
+    int counter = 1;
+    <table class="table table-striped w-100">
+        <thead>
+            <tr>
+                <th style="width:5% ":>ID</th>
+                <th style="width:20%":>Name</th>
+                <th style="width:15%":>Price</th>
+                <th style="width:10%":>Quantity</th>
+                <th style="width:15%":>Category Name</th>
+                <th style="width:10%":>Image</th>
+                @if (User.IsInRole("admin") || User.IsInRole("User"))
+                {
+                    <th style="width:10%">Details</th>
+                }
+                @if (User.IsInRole("admin"))
+                {
+                    <th style ="width:10%">Edit</th>
+                    <th style ="width:5%">Delete</th>
+                }
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in categoryGroup)
+            {
+                <tr>
+                    <td style="width: 5%; vertical-align: middle;">@counter</td>
+                    <td style="width: 20%; vertical-align: middle;">@item.Name</td>
+                    <td style="width: 15%; vertical-align: middle;">
+                        @if (item.Discount != null && item.Discount.DiscountPercentage > 0)
+                        {
+                            var discountAmount = (item.Price * (float)item.Discount.DiscountPercentage) / 100;
+                            var discountedPrice = item.Price - discountAmount;
+                            var discountPercentage = item.Discount.DiscountPercentage;
+
+                            <span style="color: #999; text-decoration: line-through; font-size: 0.9em;">
+                                @item.Price EGP
+                            </span>
+                            <br />
+                            <span style="color: green; font-weight: bold; font-size: 1.1em;">
+                                @discountedPrice EGP
+                            </span>
+                            <br />
+                            <span style="background-color: #ffc107; color: #000; font-size: 0.85em; font-weight: bold; padding: 2px 6px; border-radius: 4px;">
+                                🔥 @discountPercentage% OFF
+                            </span>
+                        }
+                        else
+                        {
+                            <span style="font-weight: bold;">@item.Price EGP</span>
+                        }
+                    </td>
+
+                    <td  style="width: 10%; vertical-align: middle;">@item.Quantity</td>
+                    <td  style="width: 15%; vertical-align: middle;">@item.category?.Name</td>
+                    <td  style="width: 10%; vertical-align: middle; ">
+                        @if (!string.IsNullOrEmpty(item.Image))
+                        {
+                            <a href="@Url.Action("ViewImage", "Product", new { imageName = item.Image })" target="_blank">
+                                <img src="/images/@item.Image" alt="@item.Name" style="width: 50px; height: auto; vertical-align: middle;" title="Click to view the image in full resolution in a new window." />
+                            </a>
+                        }
+                        else
+                        {
+                            <span>No Image</span>
+                        }
+                    </td>
+                    @if (User.IsInRole("admin") || User.IsInRole("User"))
+                    {
+                    <td style="vertical-align: middle;">
+                        <a asp-action="Details" asp-controller="Product" asp-route-id="@item.Id" style="text-decoration: none;">View Details</a>
+                    </td>
+                    }
+                    @if (User.IsInRole("admin"))
+                    {
+                        <td style="vertical-align: middle;">
+                            <a asp-action="Edit" asp-controller="Product" asp-route-id="@item.Id" style="text-decoration: none;">Edit</a>
+                        </td>
+                        <td style="vertical-align: middle;">
+                            <a href="javascript:void(0);" onclick="confirmDelete('@Url.Action("ConfirmDelete", "Product", new { id = item.Id })')" style="text-decoration: none;">Delete</a>
+                        </td>
+                    }
+                </tr>
+                counter++;
+            }
+        </tbody>
+    </table>
+}
+
+@if (User.IsInRole("admin"))
+{
+    <div class="form-outline mt-2">
+        <button type="button" class="btn btn-primary"
+                onclick="window.location.href='@Url.Action("AddNewProduct", "Product")'">
+            Add New Product
+        </button>
+    </div>
+}
+
+<script>
+    function confirmDelete(url) {
+        if (confirm("Are you sure you want to delete this product?")) {
+            window.location.href = url;
+        }
+    }
+</script>

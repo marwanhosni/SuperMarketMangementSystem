@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "View Image";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml"; 
+}
+<h3 class ="d-flex justify-content-center">ViewImage</h3>
+
+<div class="d-flex justify-content-center">
+    <img src="/images/@ViewBag.ImageName" alt="Product Image" style="max-width: 600px; height: 600px;" />
+</div>
+
+<button type="button" class="btn btn-primary btn-lg" onclick="window.location.href='@Url.Action("GetAllProduct", "Product")'">Back</button>

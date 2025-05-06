@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_IndexHome.cshtml";
+}
+
+<div class="container my-5">
+    <!-- Hero Section -->
+
+    <div class="col-md-6 p-lg-5 mx-auto my-5 content-section">
+        <h4 class="display-6 font-weight-normal text-center">Supermarket Management System</h4>
+        <p class="lead font-weight-normal" >
+            Revolutionize your supermarket with our powerful management system — built with ASP.NET Core, EF Core, and secured by ASP.NET Identity. Clean, robust, and ready for the future of retail.
+        </p>
+        <a class="btn btn-outline-secondary d-block mx-auto mt-4" href="#">Coming soon</a>
+    </div>
+    @if(!User.IsInRole("admin"))
+    {
+    <!-- About Us and Contact Us Sections -->
+    <div class="row">
+        <!-- About Us Section -->
+        <div class="col-md-6 mb-4">
+            <a asp-controller="Home" asp-action="About" class="text-decoration-none">
+                <div class="card shadow-sm border-0 about-card">
+                    <div class="card-body text-center">
+                        <i class="fas fa-info-circle fa-3x text-primary mb-3"></i>
+                        <h3 class="card-title">About Us</h3>
+                        <p class="card-text text-muted">Learn more about our mission to provide the best shopping experience.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <!-- Contact Us Section -->
+        <div class="col-md-6 mb-4">
+            <a asp-controller="Home" asp-action="Contact" class="text-decoration-none">
+                <div class="card shadow-sm border-0 contact-card">
+                    <div class="card-body text-center">
+                        <i class="fas fa-envelope fa-3x text-primary mb-3"></i>
+                        <h3 class="card-title">Contact Us</h3>
+                        <p class="card-text text-muted">Have questions? Reach out to us anytime!</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    }
+</div>
+ 
+<style>
+    .about-card, .contact-card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+        border-radius: 15px;
+    }
+
+        .about-card:hover, .contact-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2) !important;
+        }
+
+    .card-title {
+        color: #2c3e50;
+        font-weight: 600;
+    }
+
+    .card-text {
+        color: #7f8c8d;
+    }
+</style>
+

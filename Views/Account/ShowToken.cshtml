@@ -1,0 +1,39 @@
+﻿@model AuthResponse
+
+@{
+    ViewData["Title"] = "Show your token";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h4 style="padding: 10px; color: chocolate; text-align: center ;"> Your Token</h4>
+
+<div class="container mt-3">
+    <h2 style="text-align:right;">تم تسجيل الدخول بنجاح ✅</h2>
+
+    <p>
+        <strong style="font-size: 20px;">Email:</strong><br />
+        <span style="font-size: 20px; word-break: break-word; overflow-wrap: break-word;">@Model.Email</span>
+    </p>
+
+    <p>
+        <strong style="font-size: 20px;">Token:</strong><br />
+        <div style="word-break: break-word; overflow-wrap: break-word; max-width: 100%; background-color: #f7f1f1; padding: 10px; border-radius: 10px;">
+            @Model.Token
+        </div>
+    </p>
+
+    <p>
+        <strong style="font-size: 20px;">Expires In:</strong><br />
+        <span style="font-size: 20px;">@Model.ExpiresIn</span>
+    </p>
+
+    <p>
+        <strong style="font-size: 20px;">User ID :</strong><br />
+        <span style="font-size: 20px; word-break: break-word; overflow-wrap: break-word;">@Model.Id</span>
+    </p>
+
+    <form asp-controller="Home" asp-action="RedirectByRole" method="post">
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <button type="submit" class="btn btn-primary mt-3">Go To Use App</button>
+    </form>
+</div>

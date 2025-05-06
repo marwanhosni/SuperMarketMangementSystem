@@ -1,0 +1,69 @@
+﻿@model List<SuperMarketMangementSystem.Models.Entities.Products>
+
+@{
+    ViewData["Title"] = "Discounted Products";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+<h1 class="text text-primary mb-2" style="font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);">
+    <i class="bi bi-gift-fill"></i> Discounted Products
+</h1>
+
+<p class="text" style="font-size: 1.25rem; color: #00796B;">
+    <strong>Products Count:</strong> 
+    <span class="badge bg-success" style="font-size: 1.2rem;">@(Model?.Count ?? 0)</span>
+</p>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No discounted products available at the moment.</p>
+}
+else
+{
+    <form method="get" asp-controller="Discount" asp-action="DiscountedProducts" class="mb-3">
+        <div class="row mb-7">
+            <div class="col-md-4">
+                <form method="get" asp-controller="Discount" asp-action="DiscountedProducts">
+                    <label for="sortBy" class="form-label fw-bold">🔽 Sort by:</label>
+                    <select name="sortBy" id="sortBy" class="form-select shadow-sm border-primary" onchange="this.form.submit()">
+                        @{
+                            var sortBy = ViewBag.CurrentSort as string ?? "EndDate";
+                        }
+                        <option value="EndDate" selected="@(sortBy == "EndDate" ? "selected" : null)">End Date - Soonest First</option>
+                        <option value="StartDate" selected="@(sortBy == "StartDate" ? "selected" : null)">Start Date - Soonest First</option>
+                        <option value="DiscountPercentage" selected="@(sortBy == "DiscountPercentage" ? "selected" : null)">Discount Percentage - Highest First</option>
+                    </select>
+                </form>
+            </div>
+        </div>
+
+    </form>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Original Price</th>
+                <th>Discount %</th>
+                <th>Discounted Price</th>
+                <th>Discount Start Date</th>
+                <th>Discount End Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                var discountedPrice = product.Price - (product.Price * (float)(product.Discount.DiscountPercentage / 100));
+                bool isExpired = product.Discount.EndDate < DateTime.UtcNow;
+                var dateColor = isExpired ? "red" : "inherit";
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price EGP</td>
+                    <td>@product.Discount.DiscountPercentage%</td>
+                    <td>@discountedPrice EGP</td>
+                    <td >@product.Discount.StartDate.ToString("dd/MM/yyyy")</td>
+                    <td style="color:@dateColor">@product.Discount.EndDate.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

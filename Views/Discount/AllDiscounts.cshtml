@@ -1,0 +1,75 @@
+﻿@model List<Discount>
+
+@{
+    ViewData["Title"] = "Discount Management";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h1>Discount Management</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<p>
+    <a asp-action="AddDiscount" class="btn btn-primary">Add New Discount</a>
+    <a asp-action="SyncDiscountsWithProducts" class="btn btn-secondary">Sync Discounts with Products</a>
+</p>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No discounts available.</p>
+}
+else
+{
+    <form method="get" asp-action="AllDiscounts" class="mb-3">
+        <div class="row">
+            <div class="col-md-4">
+                <label for="sortBy" class="form-label fw-bold">🔽 Sort by:</label>
+                <select name="sortBy" id="sortBy" class="form-select shadow-sm border-primary" onchange="this.form.submit()">
+                    @{
+                        var sortBy = ViewBag.CurrentSort as string ?? "EndDate";
+                    }
+                    <option value="EndDate" selected="@(sortBy == "EndDate" ? "selected" : null)">End Date - Soonest First</option>
+                    <option value="StartDate" selected="@(sortBy == "StartDate" ? "selected" : null)">Start Date - Soonest First</option>
+                    <option value="DiscountPercentage" selected="@(sortBy == "DiscountPercentage" ? "selected" : null)">Discount Percentage - Highest First</option>
+                </select>
+            </div>
+        </div>
+    </form>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Discount %</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th>Product</th>
+                <th>Category</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var discount in Model)
+            {
+                bool isExpired = discount.EndDate < DateTime.UtcNow;
+                var dateColor = isExpired ? "red" : "inherit";
+                <tr>
+                    <td>@discount.Name</td>
+                    <td>@discount.DiscountPercentage%</td>
+                    <td>@discount.StartDate.ToString("dd/MM/yyyy")</td>
+                    <td style="color:@dateColor">@discount.EndDate.ToString("dd/MM/yyyy")</td>
+                    <td>@(discount.Product?.Name ?? "--")</td>
+                    <td>@(discount.Category?.Name ?? "--")</td>
+                    <td><a asp-action="EditDiscount" asp-route-id="@discount.Id">Edit</a></td>
+                    <td><a asp-action="ConfirmDelete" asp-route-id="@discount.Id">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

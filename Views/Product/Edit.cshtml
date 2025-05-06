@@ -1,0 +1,73 @@
+﻿@model ProductCategoryViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h1>Edit Products</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" action="/Product/SaveEdit/@Model.Id" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            @if (!string.IsNullOrEmpty(Model.OldImage))
+            {
+                <div class="form-group">
+                    <label>Current Image:</label><br />
+                    <img src="/images/@Model.OldImage" alt="Product Image" style="max-width: 150px; border-radius: 8px;" />
+                </div>
+            }
+            else
+            {
+                <div class="form-group">
+                    <label>No Image Available</label>
+                </div>
+            }
+            <div class="form-group">
+                <label asp-for="Image" class="control-label">Upload New Image</label>
+                <input asp-for="Image" type="file" class="form-control" accept="image/*" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="OldImage" value="@Model.OldImage" />
+            <div class="form-group">
+                <label asp-for="CategryId" class="control-label"></label>
+                <select name="CategryId" id="CategryId" class="form form-control">
+                    @foreach (var Categoryitem in Model.categoriesList)
+                    {
+                        if (Model.CategryId == Categoryitem.Id)
+                        {
+                            <option value="@Categoryitem.Id" selected>@Categoryitem.Name</option>
+                        }
+                        else
+                        {
+                            <option value="@Categoryitem.Id">@Categoryitem.Name</option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="CategryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="GetAllProduct">Back to List</a>
+</div>
