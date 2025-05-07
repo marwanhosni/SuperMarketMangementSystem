@@ -1,0 +1,78 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore build results
+*.dll
+*.exe
+*.pdb
+*.apk
+*.app
+*.ipa
+*.dll.mdb
+*.exe.mdb
+*.dbmdl
+
+# Ignore User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore all .csproj.user files
+*.csproj.user
+
+# Ignore Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore Visual Studio for Mac files
+.vscode/
+
+# Ignore the .NET Core publish output folder
+publish/
+
+# Ignore the NuGet package folder
+.nuget/
+
+# Ignore ASP.NET temporary files
+aspnet/
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore IIS Express config files
+.vsconfig
+
+# Ignore Node.js dependencies (if present)
+node_modules/
+
+# Ignore Yarn dependencies (if present)
+.yarn/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+
+# Ignore JetBrains Rider-specific files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore ReSharper directories
+_ReSharper/
+
+# Ignore build logs
+*.log
+
+# Ignore temporary files created by editors
+*~
